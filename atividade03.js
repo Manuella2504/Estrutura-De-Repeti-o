@@ -1,0 +1,1 @@
+/*Crie um array de nomes e use for...of para imprimir cada nome com uma saudação personalizada.*/
